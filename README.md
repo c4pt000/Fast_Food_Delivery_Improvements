@@ -6,5 +6,5 @@ that might happen sometimes during fast food being prepared and to help isolate 
  <br>
  <br>
  <br>
- To only allow the delivery driver the customer's name and address when the food the driver is picking up the order after the food is received to deliver the food to the customer.The delivery driver would ask for the order at the restraunt pickup location by only the order code consisting of a unique letter and number combination to pickup the order according to the delivery application.
+ To only allow the delivery driver the customer's name and address when the food the driver is picking up for the order after the food is received to deliver the food to the customer.The delivery driver would ask for the order at the restraunt pickup location by only the order code consisting of a unique letter and number combination to pickup the order according to the delivery application.
 </p>
