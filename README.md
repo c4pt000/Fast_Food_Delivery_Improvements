@@ -1,5 +1,5 @@
 # Fast Food Delivery Improvements
-
+<p>
    Current fast delivery mechanisms exist where the customer's name and address are presented directly to the fast food restraunt for preperation before a delivery 
    
 driver is enqued to pickup an order to deliver the food to a customer.
@@ -15,3 +15,4 @@ transit to deliver the food to the customer.
   The delivery driver would ask for the order by only the order code consisting of a unique letter and number combination to pickup the order according to the 
    
 delivery application pickup.
+</p>
