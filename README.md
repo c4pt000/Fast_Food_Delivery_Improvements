@@ -6,5 +6,5 @@ that might happen sometimes during fast food being prepared.
  <br>
  <br>
  <br>
- To only allow the delivery driver the customer's name and address when the food the driver is picking up in transit to deliver the food to the customer.The delivery driver would ask for the order by only the order code consisting of a unique letter and number combination to pickup the order according to the delivery application pickup.
+ To only allow the delivery driver the customer's name and address when the food the driver is picking up in transit to deliver the food to the customer.The delivery driver would ask for the order by only the order code consisting of a unique letter and number combination to pickup the order according to the delivery application.
 </p>
