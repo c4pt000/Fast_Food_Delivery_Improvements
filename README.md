@@ -2,7 +2,7 @@
 <p>
  &nbsp&nbsp&nbsp  Current fast delivery mechanisms exist where the customer's name and address are presented directly to the fast food restraunt for preperation before a delivery driver is enqued to pickup an order to deliver the food to a customer. I feel like a major improvement to this existing order model would be to obstfrucate the customer's name and address to the restraunt preparing the customer's 
 order to cut down on worker's denying to ability to supply an order and canceling it as a possible excuse and or not filling an order and or other major hazards 
-that might happen sometimes during fast food being prepared. 
+that might happen sometimes during fast food being prepared and to help isolate issues to determine problems with certain orders. 
  <br>
  <br>
  <br>
